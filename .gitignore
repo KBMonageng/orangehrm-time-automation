@@ -1,0 +1,20 @@
+# Maven output, generated reports, and screenshots
+**/target/
+
+# Local editor settings
+.idea/
+.vscode/
+*.iml
+
+# Local environment files and logs
+.env
+.env.*
+!.env.example
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local Java upgrade tooling
+.github/modernize/
